@@ -1,6 +1,5 @@
 ## Olá, eu sou o Victor 👋
 
-<!--
 **victorbancatelli/victorbancatelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🌐 Minhas redes:
