@@ -23,7 +23,7 @@
   <img
     align="center"
     alt="Resumo do perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorbancatelli&theme=great_gatsby"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorbancatelli&theme=nord_dark"
   />
   <br>
   <br>
