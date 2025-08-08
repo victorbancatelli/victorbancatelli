@@ -23,7 +23,7 @@
   <img
     align="center"
     alt="Resumo do perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=midnight_blue"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=midnight_purple"
   />
   <br>
   <br>
