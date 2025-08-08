@@ -8,24 +8,22 @@
   <img
     height="165"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&show_icons=true&count_private=true&rank_icon=github&theme=dark-blue&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&show_icons=true&count_private=true&rank_icon=github&theme=midnigth-blue&font=Iosevka"
   />
   <img
     height=165
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbancatelli&layout=compact&font=Iosevka&langs_count=16&theme=dark-blue"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbancatelli&layout=compact&font=Iosevka&langs_count=16&theme=midnigth-blue"
   />
 </div>
-
 <br>
-
-
+<br>
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
 
   <img
     align="center"
     alt="Resumo do Perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorbancatelli&theme=dark-blue"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorbancatelli&theme=midnigth-blue"
     height="280"
   />
 </div>
@@ -37,7 +35,7 @@
     height=154
     align="center"
     alt="Languages"
-    src="https://github-readme-streak-stats.herokuapp.com?user=victorbancatelli&theme=dark-blue&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=victorbancatelli&theme=midnigth-blue&card_width=885"
   />
 </div>
 
