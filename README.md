@@ -11,7 +11,7 @@
     src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&show_icons=true&count_private=true&rank_icon=github&theme=dark-blue&font=Iosevka"
   />
   <img
-    height="165"
+    height=165
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbancatelli&layout=compact&font=Iosevka&langs_count=16&theme=dark-blue"
   />
@@ -37,7 +37,7 @@
     height=154
     align="center"
     alt="Languages"
-    src="https://github-readme-streak-stats.herokuapp.com?user=victorbancatelli&theme=ligth-blue&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=victorbancatelli&theme=dark-blue&card_width=885"
   />
 </div>
 
