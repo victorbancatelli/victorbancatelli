@@ -8,12 +8,12 @@
   <img
     height="165"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&show_icons=true&count_private=true&rank_icon=github&theme=ligth-blue&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&show_icons=true&count_private=true&rank_icon=github&theme=dark-blue&font=Iosevka"
   />
   <img
     height="165"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbancatelli&layout=compact&font=Iosevka&langs_count=16&theme=ligth-blue"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbancatelli&layout=compact&font=Iosevka&langs_count=16&theme=dark-blue"
   />
 </div>
 
@@ -25,7 +25,7 @@
   <img
     align="center"
     alt="Resumo do Perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorbancatelli&theme=ligth-blue"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorbancatelli&theme=dark-blue"
     height="280"
   />
 </div>
