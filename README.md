@@ -31,7 +31,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=victorbancatelli&theme=nord_dark&card_width=885"
+    src="https://github-readme-stats.vercel.app/api/?user=victorbancatelli&theme=nord_dark&card_width=885"
   />
   </div>
 
