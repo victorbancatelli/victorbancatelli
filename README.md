@@ -10,20 +10,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&show_icons=true&count_private=true&rank_icon=github&theme=nord_dark&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&layout=compact&font=Iosevka&langs_count=16&theme=nord_dark"
+    src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&layout=compact&font=Iosevka&langs_count=16&theme=dark"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Resumo do perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorbancatelli&theme=nord_dark"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorbancatelli&theme=dark"
   />
   <br>
   <br>
@@ -31,7 +31,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=midnight-purple&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=dark&card_width=885"
   />
   </div>
 
