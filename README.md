@@ -16,7 +16,7 @@
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/?username=victorbancatelli&layout=compact&font=Iosevka&langs_count=16&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbancatelli&layout=compact&font=Iosevka&langs_count=16&theme=dark"
   />
   <br>
   <br>
